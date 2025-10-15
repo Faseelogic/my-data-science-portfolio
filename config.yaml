@@ -1,0 +1,19 @@
+title: <p align="center"> Faseehulla</p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="assets/pdf/resume.pdf">Resume</a> |
+  <a href="[Your LinkedIn URL]">LinkedIn</a> |
+  <a href="https://github.com/Fuzzlogic">GitHub</a>
+  
+  <br>   
+  I'm a data science enthusiast focusing on Machine Learning, Big Data, and NLP projects.
+  My work includes predictive modeling, data visualization, and developing efficient data pipelines.
+  I am actively building my portfolio to demonstrate analytical skills.
+  <br>
+  </p>
+
+
+# Standard Jekyll Settings (Required for GitHub Pages/Minimal Theme)
+remote_theme: jekyll-theme-minimaldd
