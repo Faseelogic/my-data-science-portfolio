@@ -16,4 +16,4 @@ description:
 
 
 # Standard Jekyll Settings (Required for GitHub Pages/Minimal Theme)
-remote_theme: jekyll-theme-minimaldd
+remote_theme: jekyll-theme-minimal
